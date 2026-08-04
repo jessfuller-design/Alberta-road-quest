@@ -1,0 +1,35 @@
+# Road Quest Question Database
+
+The database contains 277 questions and preserves the original object structure:
+
+```json
+{
+  "cat": "Licensing",
+  "q": "Question text",
+  "a": ["Choice 1", "Choice 2", "Choice 3", "Choice 4"],
+  "correct": 0,
+  "why": "Answer explanation"
+}
+```
+
+## Files
+
+- `questions.js` is loaded by the offline app and exposes `window.ROADQUEST_QUESTIONS`.
+- `questions.json` is the editable/importable source database.
+
+## Query helper
+
+The browser also exposes `window.RoadQuestDB`:
+
+- `RoadQuestDB.all()`
+- `RoadQuestDB.categories()`
+- `RoadQuestDB.byCategory("Highways")`
+- `RoadQuestDB.search("right-of-way")`
+- `RoadQuestDB.random(20, "Intersections")`
+
+To add questions, append objects to both files or regenerate `questions.js` from `questions.json`.
+
+
+Pack 006 adds 50 questions, IDs 278-327.
+
+- `pack-007-ids-328-377.json`: 50-question expansion covering Chapters 7 and 8.

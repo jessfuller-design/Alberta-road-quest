@@ -1,0 +1,1438 @@
+[
+  {
+    "chapter": 7,
+    "section": "Proactive Driving",
+    "cat": "Responsible Driving",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "visual lead time",
+      "urban",
+      "scanning"
+    ],
+    "q": "How far ahead should you generally scan when driving in an urban area?",
+    "a": [
+      "4 to 6 seconds",
+      "8 to 10 seconds",
+      "12 to 15 seconds",
+      "20 to 25 seconds"
+    ],
+    "correct": 2,
+    "why": "In an urban area, look about 12 to 15 seconds ahead, roughly one to one-and-a-half blocks.",
+    "id": 328,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Proactive Driving"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Proactive Driving",
+    "cat": "Responsible Driving",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "visual lead time",
+      "rural",
+      "scanning"
+    ],
+    "q": "How far ahead should you generally scan when driving in a rural area?",
+    "a": [
+      "5 to 8 seconds",
+      "12 to 15 seconds",
+      "20 to 25 seconds",
+      "30 to 40 seconds"
+    ],
+    "correct": 2,
+    "why": "In rural areas, look at least 20 to 25 seconds ahead to give yourself time to respond.",
+    "id": 329,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Proactive Driving"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Proactive Driving",
+    "cat": "Responsible Driving",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "mirrors",
+      "scanning"
+    ],
+    "q": "About how often should you glance in your rear-view mirrors during normal driving?",
+    "a": [
+      "Every 2 to 3 seconds",
+      "Every 8 to 12 seconds",
+      "Once every 30 seconds",
+      "Only before turning"
+    ],
+    "correct": 1,
+    "why": "The guide recommends checking behind by glancing in the mirrors every 8 to 12 seconds.",
+    "id": 330,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Proactive Driving"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Proactive Driving",
+    "cat": "Responsible Driving",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "mirrors",
+      "stopping",
+      "rear collision"
+    ],
+    "q": "You expect to slow for traffic ahead. What extra check should you make before braking?",
+    "a": [
+      "Glance in the rear-view mirror",
+      "Turn off the headlights",
+      "Move onto the shoulder",
+      "Sound the horn"
+    ],
+    "correct": 0,
+    "why": "Glancing behind before slowing helps you understand what following traffic is doing.",
+    "id": 331,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Proactive Driving"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Proactive Driving",
+    "cat": "Responsible Driving",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "hazards",
+      "fixed hazards"
+    ],
+    "q": "Which is an example of a fixed hazard?",
+    "a": [
+      "A child running toward the road",
+      "An icy patch that forms overnight",
+      "A hidden driveway",
+      "An approaching emergency vehicle"
+    ],
+    "correct": 2,
+    "why": "A hidden driveway is a permanent roadway condition and therefore a fixed hazard.",
+    "id": 332,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Proactive Driving"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Proactive Driving",
+    "cat": "Responsible Driving",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "hazards",
+      "variable hazards"
+    ],
+    "q": "Which is an example of a variable hazard?",
+    "a": [
+      "A curve in the road",
+      "A hill that blocks your view",
+      "A merging roadway",
+      "School children near the street"
+    ],
+    "correct": 3,
+    "why": "School children are a variable hazard because their presence and movement change.",
+    "id": 333,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Proactive Driving"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Space Cushion",
+    "cat": "Responsible Driving",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "tailgating",
+      "space cushion"
+    ],
+    "q": "A driver is following you too closely. If it is safe, what should you do?",
+    "a": [
+      "Brake sharply to warn them",
+      "Speed up beyond the limit",
+      "Reduce speed slightly to encourage them to pass",
+      "Move closer to the vehicle ahead"
+    ],
+    "correct": 2,
+    "why": "A slight speed reduction may encourage the tailgater to pass. If they do not, increase the space ahead of you.",
+    "id": 334,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Space Cushion"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Space Cushion",
+    "cat": "Responsible Driving",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "stopping",
+      "escape route",
+      "rear collision"
+    ],
+    "q": "Why should you leave extra space when stopped behind another vehicle?",
+    "a": [
+      "So you can move into another lane without reversing if needed",
+      "So pedestrians can walk between the vehicles",
+      "To make the traffic light change faster",
+      "To prevent the vehicle ahead from rolling back"
+    ],
+    "correct": 0,
+    "why": "Extra space gives you an escape route and lowers the chance of being pushed into the vehicle ahead if struck from behind.",
+    "id": 335,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Space Cushion"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Following Distance",
+    "cat": "Responsible Driving",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "two-second rule",
+      "following"
+    ],
+    "q": "Under normal road and weather conditions, what minimum following time does the guide recommend for most vehicles?",
+    "a": [
+      "One second",
+      "Two seconds",
+      "Four seconds",
+      "Six seconds"
+    ],
+    "correct": 1,
+    "why": "Most drivers should remain at least two seconds behind the vehicle ahead in normal conditions.",
+    "id": 336,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Following Distance"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Following Distance",
+    "cat": "Responsible Driving",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "large vehicles",
+      "motorhome",
+      "following"
+    ],
+    "q": "What minimum following time is recommended when driving a large vehicle such as a motorhome?",
+    "a": [
+      "Two seconds",
+      "Three seconds",
+      "Four seconds",
+      "Eight seconds"
+    ],
+    "correct": 2,
+    "why": "The guide recommends a minimum four-second following distance for large vehicles such as motorhomes.",
+    "id": 337,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Following Distance"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Following Distance",
+    "cat": "Responsible Driving",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "two-second rule",
+      "counting"
+    ],
+    "q": "The vehicle ahead passes a road marking. You reach it before finishing 'one-thousand-and-two.' What does this mean?",
+    "a": [
+      "You are following too closely",
+      "Your speedometer is inaccurate",
+      "The vehicle ahead is driving too slowly",
+      "You have enough following distance"
+    ],
+    "correct": 0,
+    "why": "Reaching the marker before completing the two-second count means the gap is too small.",
+    "id": 338,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Following Distance"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Planning Ahead",
+    "cat": "Responsible Driving",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "missed exit",
+      "reversing"
+    ],
+    "q": "You miss your highway exit. What should you do?",
+    "a": [
+      "Reverse carefully along the shoulder",
+      "Stop in your lane and wait",
+      "Continue to the next exit",
+      "Make a U-turn through the median"
+    ],
+    "correct": 2,
+    "why": "Continue to the next exit. Never reverse on the roadway to return to a missed exit or turn.",
+    "id": 339,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Planning Ahead"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Distracted Driving",
+    "cat": "Responsible Driving",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "hands-free",
+      "cell phone",
+      "distraction"
+    ],
+    "q": "Does using a hands-free phone eliminate the driving distraction described in the guide?",
+    "a": [
+      "Yes, completely",
+      "Only on highways",
+      "No",
+      "Only if the call is under one minute"
+    ],
+    "correct": 2,
+    "why": "The guide states that hands-free phone use can still take attention away from driving.",
+    "id": 340,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Distracted Driving"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Distracted Driving",
+    "cat": "Responsible Driving",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "phone",
+      "safe stop",
+      "texting"
+    ],
+    "q": "You need to send a text while driving. What is the proper action?",
+    "a": [
+      "Send it at a red light",
+      "Ask traffic to wait while you type",
+      "Stop in a safe and legal place before using the phone",
+      "Hold the phone below the window line"
+    ],
+    "correct": 2,
+    "why": "Stop in a safe and legal place before making calls or sending messages.",
+    "id": 341,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Distracted Driving"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Distracted Driving",
+    "cat": "Responsible Driving",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "demerits",
+      "distraction"
+    ],
+    "q": "According to the guide, specified distracted-driving offences include a fine and how many demerit points?",
+    "a": [
+      "One",
+      "Two",
+      "Three",
+      "Six"
+    ],
+    "correct": 2,
+    "why": "The listed distracted-driving offences carry three demerit points in addition to fines.",
+    "id": 342,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Distracted Driving"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Distracted Driving",
+    "cat": "Responsible Driving",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "GPS",
+      "distraction"
+    ],
+    "q": "Which activity is listed as distracted driving?",
+    "a": [
+      "Checking mirrors",
+      "Entering information into a GPS while driving",
+      "Adjusting the seat before moving",
+      "Looking ahead for hazards"
+    ],
+    "correct": 1,
+    "why": "Entering information into a GPS while driving is one of the listed distractions.",
+    "id": 343,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Distracted Driving"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Securing Passengers",
+    "cat": "Responsible Driving",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "seat belts",
+      "under 16",
+      "driver responsibility"
+    ],
+    "q": "Who is responsible for ensuring passengers under 16 are properly secured?",
+    "a": [
+      "The youngest passenger",
+      "The vehicle owner only",
+      "The driver",
+      "Each passenger's school"
+    ],
+    "correct": 2,
+    "why": "The driver is responsible for passengers under 16 being properly secured.",
+    "id": 344,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Securing Passengers"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Child Safety Seats",
+    "cat": "Responsible Driving",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "child seat",
+      "age",
+      "weight"
+    ],
+    "q": "A child must be in a child safety seat when the child is under six years old and weighs no more than:",
+    "a": [
+      "14 kg (30 lb)",
+      "18 kg (40 lb)",
+      "23 kg (50 lb)",
+      "27 kg (60 lb)"
+    ],
+    "correct": 1,
+    "why": "A child under six who weighs 18 kilograms (40 pounds) or less must be properly secured in a child safety seat.",
+    "id": 345,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Child Safety Seats"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Child Safety Seats",
+    "cat": "Responsible Driving",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "booster seat",
+      "weight"
+    ],
+    "q": "Children who weigh more than 18 kg (40 lb) should generally use what before moving to the vehicle seat belt alone?",
+    "a": [
+      "A rear-facing infant seat only",
+      "An approved booster seat",
+      "No restraint",
+      "A lap belt behind the back"
+    ],
+    "correct": 1,
+    "why": "The guide recommends an approved booster seat before using the vehicle belt alone.",
+    "id": 346,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Child Safety Seats"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Traffic Laws",
+    "cat": "Responsible Driving",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "trailer",
+      "passengers",
+      "towing"
+    ],
+    "q": "May a person ride inside a trailer while it is being towed?",
+    "a": [
+      "Yes, if seated",
+      "Yes, below 50 km/h",
+      "No",
+      "Only on rural roads"
+    ],
+    "correct": 2,
+    "why": "It is against the law to let a person ride in a trailer while it is being towed.",
+    "id": 347,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Traffic Laws"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Traffic Laws",
+    "cat": "Responsible Driving",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "pickup box",
+      "outside vehicle"
+    ],
+    "q": "May a passenger ride in the open box of a pickup truck on a roadway?",
+    "a": [
+      "Yes, if holding on",
+      "Yes, if over 18",
+      "No",
+      "Only during daylight"
+    ],
+    "correct": 2,
+    "why": "Drivers must not allow anyone to ride on the outside of a vehicle, including an open pickup box.",
+    "id": 348,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Traffic Laws"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Traffic Laws",
+    "cat": "Responsible Driving",
+    "difficulty": 3,
+    "type": "recall",
+    "tags": [
+      "rear load",
+      "red flag",
+      "daylight"
+    ],
+    "q": "A load extends 1.5 metres or more beyond the rear of a vehicle during daylight. What must mark the end?",
+    "a": [
+      "A white cloth",
+      "A red flag at least 30 cm on each side",
+      "An amber light",
+      "A reflective triangle only"
+    ],
+    "correct": 1,
+    "why": "During daylight, a square red flag at least 30 centimetres on each side must mark the projecting load.",
+    "id": 349,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Traffic Laws"
+    }
+  },
+  {
+    "chapter": 7,
+    "section": "Traffic Laws",
+    "cat": "Responsible Driving",
+    "difficulty": 3,
+    "type": "recall",
+    "tags": [
+      "rear load",
+      "red light",
+      "night"
+    ],
+    "q": "A load extends 1.5 metres or more beyond the rear of a vehicle at night. What is required at its end?",
+    "a": [
+      "A red light",
+      "A blue flag",
+      "A white headlamp",
+      "A green reflector"
+    ],
+    "correct": 0,
+    "why": "At night, a red light must be attached to the end of the extension or load.",
+    "id": 350,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 7,
+      "section": "Traffic Laws"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Pedestrian Safety",
+    "cat": "Sharing the Road",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "pedestrian crossing",
+      "flashing yellow",
+      "30 km/h"
+    ],
+    "q": "At a pedestrian-activated crossing with flashing yellow lights, what maximum speed applies?",
+    "a": [
+      "20 km/h",
+      "30 km/h",
+      "40 km/h",
+      "50 km/h"
+    ],
+    "correct": 1,
+    "why": "Slow to a maximum of 30 km/h and yield to pedestrians wanting to cross.",
+    "id": 351,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Pedestrian Safety"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Pedestrian Safety",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "crosswalk",
+      "unmarked",
+      "yield"
+    ],
+    "q": "A pedestrian enters an unmarked crosswalk at an intersection. What must you do?",
+    "a": [
+      "Yield the right-of-way",
+      "Continue because there are no painted lines",
+      "Sound the horn and proceed",
+      "Pass behind the pedestrian without slowing"
+    ],
+    "correct": 0,
+    "why": "Drivers must yield to pedestrians in both marked and unmarked crosswalks.",
+    "id": 352,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Pedestrian Safety"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Pedestrian Safety",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "crosswalk",
+      "stopping distance",
+      "visibility"
+    ],
+    "q": "When stopping for a pedestrian at a crosswalk, about how far back should you stop so other drivers can see the pedestrian?",
+    "a": [
+      "At the edge of the crosswalk",
+      "Half a car length",
+      "Two to three car lengths",
+      "Ten car lengths"
+    ],
+    "correct": 2,
+    "why": "Stopping two to three car lengths back improves visibility for traffic in other lanes.",
+    "id": 353,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Pedestrian Safety"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Pedestrian Safety",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "crosswalk",
+      "passing",
+      "pedestrian"
+    ],
+    "q": "A vehicle ahead slows near a crosswalk. Should you pass it?",
+    "a": [
+      "Yes, if the other lane looks clear",
+      "No",
+      "Only if you sound the horn",
+      "Only if the crosswalk is unmarked"
+    ],
+    "correct": 1,
+    "why": "Never pass a vehicle approaching a crosswalk; it may be stopping for a pedestrian.",
+    "id": 354,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Pedestrian Safety"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Pedestrian Safety",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "children",
+      "parked vehicles",
+      "hazard"
+    ],
+    "q": "In a residential area, why should you glance beneath parked vehicles ahead?",
+    "a": [
+      "To check tire pressure",
+      "To look for children's feet, toys, or bicycle wheels",
+      "To find road markings",
+      "To see whether engines are running"
+    ],
+    "correct": 1,
+    "why": "Feet, toys, or bicycle wheels can warn that a child may emerge into the roadway.",
+    "id": 355,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Pedestrian Safety"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Bicycles",
+    "cat": "Sharing the Road",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "cyclist",
+      "pedestrian",
+      "walking bicycle"
+    ],
+    "q": "A person walking beside and pushing a bicycle is considered:",
+    "a": [
+      "A motorist",
+      "A cyclist only",
+      "A pedestrian",
+      "A commercial operator"
+    ],
+    "correct": 2,
+    "why": "A cyclist who dismounts and pushes the bicycle is treated as a pedestrian.",
+    "id": 356,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Bicycles"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Bicycles",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "cyclist",
+      "door opening",
+      "curb"
+    ],
+    "q": "You are parked at the curb and want to open your door. What must you do first?",
+    "a": [
+      "Check for cyclists and wait until it is safe",
+      "Open it quickly before a cyclist arrives",
+      "Sound the horn",
+      "Turn on high beams"
+    ],
+    "correct": 0,
+    "why": "It is the driver's responsibility to check for cyclists before opening the door.",
+    "id": 357,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Bicycles"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Bicycles",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "cyclist",
+      "following distance",
+      "brake lights"
+    ],
+    "q": "Why should you avoid following a cyclist closely?",
+    "a": [
+      "Bicycles always exceed the speed limit",
+      "Cyclists do not have brake lights to warn you when they stop",
+      "Cyclists are required to turn left suddenly",
+      "Bicycle tires throw large rocks"
+    ],
+    "correct": 1,
+    "why": "Cyclists may slow or stop without brake lights, so drivers need extra space.",
+    "id": 358,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Bicycles"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Motorcycles",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "motorcycle",
+      "lane position",
+      "visibility"
+    ],
+    "q": "A motorcycle is travelling in the left portion of its lane. What should you assume?",
+    "a": [
+      "It is definitely turning left",
+      "It may be using that position for visibility; do not assume a turn",
+      "It is inviting you to share the lane",
+      "It must leave the road"
+    ],
+    "correct": 1,
+    "why": "Motorcyclists often use the left part of the lane to be more visible; this does not necessarily signal a left turn.",
+    "id": 359,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Motorcycles"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Motorcycles",
+    "cat": "Sharing the Road",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "motorcycle",
+      "lane sharing"
+    ],
+    "q": "May a car share a lane beside a motorcycle?",
+    "a": [
+      "Yes, on wide lanes",
+      "Yes, below 30 km/h",
+      "No",
+      "Only when passing"
+    ],
+    "correct": 2,
+    "why": "A motorcycle rider needs the entire lane to travel safely.",
+    "id": 360,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Motorcycles"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Motorcycles",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "motorcycle",
+      "following distance",
+      "stopping"
+    ],
+    "q": "Why should you leave extra space behind a motorcycle?",
+    "a": [
+      "Motorcycles can stop very quickly",
+      "Motorcycles cannot use mirrors",
+      "Motorcycles always travel below the limit",
+      "Motorcycles must weave between lanes"
+    ],
+    "correct": 0,
+    "why": "Motorcycles can stop quickly and may also need to react suddenly to road hazards.",
+    "id": 361,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Motorcycles"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Commercial Vehicles",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "large vehicle",
+      "blind spots",
+      "mirrors"
+    ],
+    "q": "You are behind a large truck and cannot see both of its side mirrors. What does this indicate?",
+    "a": [
+      "The truck driver can see you clearly",
+      "You are too close and may be in a blind spot",
+      "The truck is about to turn",
+      "You should flash your high beams"
+    ],
+    "correct": 1,
+    "why": "If you cannot see both side mirrors, you are too close for the truck driver to see you reliably.",
+    "id": 362,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Commercial Vehicles"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Commercial Vehicles",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "truck",
+      "right turn",
+      "squeeze"
+    ],
+    "q": "A large truck ahead is turning right. Where should you avoid driving?",
+    "a": [
+      "Well behind it",
+      "In the space between the truck and the curb",
+      "In a separate lane well back",
+      "Where the driver can see you"
+    ],
+    "correct": 1,
+    "why": "Large vehicles need extra turning room and can squeeze a vehicle caught on their right.",
+    "id": 363,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Commercial Vehicles"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Commercial Vehicles",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "large vehicle",
+      "stopping distance",
+      "lane change"
+    ],
+    "q": "After passing a heavy commercial vehicle, why should you leave extra room before moving back in front?",
+    "a": [
+      "The truck needs more distance to slow or stop",
+      "The truck is required to speed up",
+      "Your mirrors stop working nearby",
+      "The truck's horn can damage hearing"
+    ],
+    "correct": 0,
+    "why": "Heavy vehicles need much more stopping distance, so cutting in closely is dangerous.",
+    "id": 364,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Commercial Vehicles"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Log Hauling Vehicles",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "log truck",
+      "turning",
+      "overhang"
+    ],
+    "q": "Why must you never pass a log-hauling truck while it is turning off the highway?",
+    "a": [
+      "The truck may stop without lights",
+      "Logs can extend far behind and sweep across lanes",
+      "The driver cannot use brakes while turning",
+      "The truck always has the right-of-way"
+    ],
+    "correct": 1,
+    "why": "The rear logs may extend as much as nine metres and can block or sweep across multiple lanes during a turn.",
+    "id": 365,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Log Hauling Vehicles"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "School Buses",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "school bus",
+      "amber lights",
+      "undivided highway"
+    ],
+    "q": "On an undivided highway, a school bus ahead has alternating amber lights flashing. What should you do?",
+    "a": [
+      "Pass immediately",
+      "Be ready to stop",
+      "Stop only if children are visible",
+      "Move onto the shoulder"
+    ],
+    "correct": 1,
+    "why": "Amber lights warn that the bus is about to stop and activate its red lights.",
+    "id": 366,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "School Buses"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "School Buses",
+    "cat": "Sharing the Road",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "school bus",
+      "red lights",
+      "20 metres"
+    ],
+    "q": "About how far from a stopped school bus with flashing red lights should you stop?",
+    "a": [
+      "5 metres",
+      "10 metres",
+      "20 metres",
+      "50 metres"
+    ],
+    "correct": 2,
+    "why": "Stop about 20 metres away, roughly four to five car lengths.",
+    "id": 367,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "School Buses"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "School Buses",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "school bus",
+      "undivided highway",
+      "both directions"
+    ],
+    "q": "A school bus stops on a four-lane road with no median and activates its red lights. Who must stop?",
+    "a": [
+      "Only vehicles behind the bus",
+      "Only vehicles in the bus's lane",
+      "Traffic in all four lanes",
+      "Only oncoming traffic"
+    ],
+    "correct": 2,
+    "why": "On an undivided highway, traffic approaching from both directions must stop.",
+    "id": 368,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "School Buses"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "School Buses",
+    "cat": "Sharing the Road",
+    "difficulty": 4,
+    "type": "scenario",
+    "tags": [
+      "school bus",
+      "divided highway",
+      "median"
+    ],
+    "q": "You approach from the opposite direction on a highway divided by a median. A school bus has flashing red lights. What should you do?",
+    "a": [
+      "Stop 20 metres away",
+      "Proceed with caution and watch for pedestrians",
+      "Reverse to the previous intersection",
+      "Pass only on the shoulder"
+    ],
+    "correct": 1,
+    "why": "On the opposite side of a divided highway, you may proceed cautiously while watching for pedestrians.",
+    "id": 369,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "School Buses"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "School Buses",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "school bus",
+      "remain stopped"
+    ],
+    "q": "After stopping for a school bus, when may you proceed?",
+    "a": [
+      "As soon as no children are visible",
+      "When the red lights are off and the stop sign is no longer extended",
+      "When the bus driver waves once",
+      "After exactly 30 seconds"
+    ],
+    "correct": 1,
+    "why": "Remain stopped until the alternating red lights are off and the stop sign has retracted.",
+    "id": 370,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "School Buses"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Snowplows",
+    "cat": "Sharing the Road",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "snowplow",
+      "flashing lights"
+    ],
+    "q": "What reminder is associated with flashing amber and red lights on a maintenance vehicle?",
+    "a": [
+      "School bus ahead",
+      "Snowplow ahead",
+      "Railway crossing ahead",
+      "Emergency detour ahead"
+    ],
+    "correct": 1,
+    "why": "The guide uses the reminder: flashing amber and red means snowplow ahead.",
+    "id": 371,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Snowplows"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Snowplows",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "snowplow",
+      "following distance",
+      "sand"
+    ],
+    "q": "Why should you maintain the posted safe following distance behind a snowplow?",
+    "a": [
+      "To avoid rock damage and gain reaction time",
+      "To keep the snowplow from slowing down",
+      "To prevent your engine from freezing",
+      "To improve radio reception"
+    ],
+    "correct": 0,
+    "why": "More distance gives you reaction time and protects the vehicle from rocks or sand thrown by the plow.",
+    "id": 372,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Snowplows"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Snowplows",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "snowplow",
+      "passing",
+      "visibility"
+    ],
+    "q": "When is passing a snowplow prohibited?",
+    "a": [
+      "Whenever the plow is moving below the limit",
+      "When the view beside it is obstructed or passing cannot be done safely",
+      "Only at night",
+      "Only inside cities"
+    ],
+    "correct": 1,
+    "why": "Do not pass when visibility is obstructed, the pass would impede the plow, or it cannot be completed safely.",
+    "id": 373,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Snowplows"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Railway Crossings",
+    "cat": "Sharing the Road",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "railway",
+      "train",
+      "500 metres"
+    ],
+    "q": "At a railway crossing sign, when must you stop for an approaching train?",
+    "a": [
+      "Only when the gate is down",
+      "When the train is visible or sounding a signal and is within 500 metres",
+      "Only when another vehicle stops",
+      "When the train is within 50 metres"
+    ],
+    "correct": 1,
+    "why": "Stop when a train is visible or sounding a signal and approaching within 500 metres.",
+    "id": 374,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Railway Crossings"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Railway Crossings",
+    "cat": "Sharing the Road",
+    "difficulty": 2,
+    "type": "recall",
+    "tags": [
+      "railway",
+      "stop sign",
+      "distance"
+    ],
+    "q": "At a railway crossing controlled by a stop sign, where must you stop?",
+    "a": [
+      "Between 1 and 3 metres from the nearest rail",
+      "Between 5 and 15 metres from the nearest rail",
+      "At least 30 metres away",
+      "Directly on the first rail"
+    ],
+    "correct": 1,
+    "why": "A stop sign at a railway crossing requires a full stop between five and 15 metres from the nearest rail.",
+    "id": 375,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Railway Crossings"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Railway Crossings",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "railway",
+      "gate",
+      "flashing lights"
+    ],
+    "q": "A train has passed, but the crossing gate is still down and the red lights are flashing. What should you do?",
+    "a": [
+      "Drive around the gate carefully",
+      "Remain stopped",
+      "Proceed if you cannot see another train",
+      "Sound the horn and cross"
+    ],
+    "correct": 1,
+    "why": "Stay stopped until the gate is raised, the lights stop flashing and the bells stop ringing.",
+    "id": 376,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Railway Crossings"
+    }
+  },
+  {
+    "chapter": 8,
+    "section": "Railway Crossings",
+    "cat": "Sharing the Road",
+    "difficulty": 3,
+    "type": "scenario",
+    "tags": [
+      "railway",
+      "multiple tracks",
+      "second train"
+    ],
+    "q": "After the last car of a train passes at a multiple-track crossing, what should you check before crossing?",
+    "a": [
+      "Whether another train is approaching on another track",
+      "Whether your radio still works",
+      "Whether the vehicle behind is signalling",
+      "Whether the train was carrying passengers"
+    ],
+    "correct": 0,
+    "why": "A second train may be approaching on another track, so make sure all tracks are clear.",
+    "id": 377,
+    "version": 1,
+    "source": {
+      "guide": "Alberta Driver's Guide",
+      "edition": "Spring 2026",
+      "chapter": 8,
+      "section": "Railway Crossings"
+    }
+  }
+]

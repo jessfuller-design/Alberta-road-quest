@@ -1,0 +1,16 @@
+{
+  "name": "Andy\u2019s Alberta Road Quest",
+  "short_name": "Road Quest",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#4d67d8",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
