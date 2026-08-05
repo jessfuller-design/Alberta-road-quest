@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const file = path.join(__dirname, '..', 'data', 'questions.json');
+const file = path.join(__dirname, 'questions.json');
 const questions = JSON.parse(fs.readFileSync(file, 'utf8'));
 const required = ['id', 'cat', 'q', 'a', 'correct', 'why'];
 const errors = [];

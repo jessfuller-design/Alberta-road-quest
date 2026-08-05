@@ -1,6 +1,6 @@
 # Road Quest Question Database
 
-The database contains 277 questions and preserves the original object structure:
+The database contains 427 questions and preserves the original app fields while allowing optional metadata:
 
 ```json
 {
@@ -27,9 +27,10 @@ The browser also exposes `window.RoadQuestDB`:
 - `RoadQuestDB.search("right-of-way")`
 - `RoadQuestDB.random(20, "Intersections")`
 
-To add questions, append objects to both files or regenerate `questions.js` from `questions.json`.
+To add questions, place a numbered pack file at the repository root and run `npm run check`. The build merges new IDs into `questions.json`, regenerates `questions.js`, and validates the full bank.
 
 
 Pack 006 adds 50 questions, IDs 278-327.
 
 - `pack-007-ids-328-377.json`: 50-question expansion covering Chapters 7 and 8.
+- `pack-008-ids-378-427.json`: 50-question expansion covering Chapters 9 and 10.
