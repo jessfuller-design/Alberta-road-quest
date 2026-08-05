@@ -16,6 +16,17 @@ The database contains 597 questions and preserves the original app fields while 
 
 - `questions.js` is loaded by the offline app and exposes `window.ROADQUEST_QUESTIONS`.
 - `questions.json` is the editable/importable source database.
+- `road-signs.js` contains the visual Road Sign Lab catalogue used by the offline app.
+
+## Road Sign Lab
+
+Version 0.4 adds a dedicated visual module with 32 Alberta road signs:
+
+- filterable sign library with meaning, shape, colour, and required driver action
+- 10-sign image recognition rounds
+- shape and colour classification rounds
+- unlimited sign flashcards
+- separate sign mastery tracking stored on the device
 
 ## Query helper
 
