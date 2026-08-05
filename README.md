@@ -1,6 +1,6 @@
 # Road Quest Question Database
 
-The database contains 527 questions and preserves the original app fields while allowing optional metadata:
+The database contains 547 questions and preserves the original app fields while allowing optional metadata:
 
 ```json
 {
@@ -36,3 +36,4 @@ Pack 006 adds 50 questions, IDs 278-327.
 - `pack-008-ids-378-427.json`: 50-question expansion covering Chapters 9 and 10.
 - `pack-009-ids-428-477.json`: 50-question expansion covering zones, signals, parking, intersections, roundabouts, and turns.
 - `pack-010-ids-478-527.json`: 50-question expansion covering warning signs, pavement markings, and foundational vehicle control.
+- `pack-011-ids-528-547.json`: 20-question licence condition and endorsement code expansion, paired with the in-app Licence Code Decoder.
