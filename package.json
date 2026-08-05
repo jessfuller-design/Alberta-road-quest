@@ -1,6 +1,6 @@
 {
   "name": "andys-alberta-road-quest",
-  "version": "0.3.3",
+  "version": "0.3.5",
   "private": true,
   "description": "Offline Alberta Class 7 study app based on the Spring 2026 Alberta Driver's Guide.",
   "scripts": {
