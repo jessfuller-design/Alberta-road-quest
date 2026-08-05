@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 548,
+    "version": 1,
+    "chapter": 2,
+    "section": "Traffic Signals",
+    "cat": "Signals",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "Your light turns green, but a pedestrian is still clearing the crosswalk. What should you do?",
+    "a": [
+      "Wait until the pedestrian is safely clear",
+      "Proceed because green gives absolute right-of-way",
+      "Honk and move slowly",
+      "Drive around the pedestrian"
+    ],
+    "correct": 0,
+    "why": "A green light permits movement only after yielding to pedestrians and lawful traffic still in the intersection.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 22
+    }
+  },
+  {
+    "id": 549,
+    "version": 1,
+    "chapter": 2,
+    "section": "Traffic Signals",
+    "cat": "Signals",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "You approach a stale green light and the pedestrian signal shows DON'T WALK. What should you anticipate?",
+    "a": [
+      "The intersection is uncontrolled",
+      "The light may turn yellow soon",
+      "The green light will remain indefinitely",
+      "Opposing traffic has a green arrow"
+    ],
+    "correct": 1,
+    "why": "A stale green may change soon; a DON'T WALK display is another cue to prepare to stop safely.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 23
+    }
+  },
+  {
+    "id": 550,
+    "version": 1,
+    "chapter": 2,
+    "section": "Traffic Signals",
+    "cat": "Signals",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "A green arrow and solid green light face you. What may drivers following the arrow do?",
+    "a": [
+      "Ignore pedestrians in the crosswalk",
+      "Use any lane regardless of markings",
+      "Proceed in the arrow direction without yielding to opposing traffic",
+      "Stop before following the arrow"
+    ],
+    "correct": 2,
+    "why": "The protected arrow movement may proceed, while all drivers must still avoid pedestrians or other lawful intersection users.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 23
+    }
+  },
+  {
+    "id": 551,
+    "version": 1,
+    "chapter": 2,
+    "section": "Lane Reversal Signals",
+    "cat": "Signals",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "The lane-control signal above your lane changes from a green arrow to a red X. What should you do?",
+    "a": [
+      "Stop beneath the red X",
+      "Continue until the next intersection",
+      "Reverse out of the lane",
+      "Move safely into a lane displaying a green arrow"
+    ],
+    "correct": 3,
+    "why": "A red X means do not enter or remain in that lane because it may serve oncoming traffic.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 24
+    }
+  },
+  {
+    "id": 552,
+    "version": 1,
+    "chapter": 2,
+    "section": "Pedestrian Crossings",
+    "cat": "Signals",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "Yellow lights flash on a pedestrian-crossing sign, but no one has stepped onto the road yet. What is required?",
+    "a": [
+      "Reduce to no more than 30 km/h and be ready to yield or stop",
+      "Maintain the posted limit",
+      "Stop for exactly five seconds",
+      "Proceed before the pedestrian enters"
+    ],
+    "correct": 0,
+    "why": "Flashing yellow pedestrian-crossing lights require a maximum of 30 km/h and yielding or stopping for pedestrians.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 24
+    }
+  },
+  {
+    "id": 553,
+    "version": 1,
+    "chapter": 2,
+    "section": "School Zones",
+    "cat": "Zones",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "At 4:20 p.m. on a school day, you enter a school zone with no special times posted. Is the zone active?",
+    "a": [
+      "Only on rural roads",
+      "Yes, the default afternoon period ends at 4:30 p.m.",
+      "No, it ends at 4:00 p.m.",
+      "Only if children are visible"
+    ],
+    "correct": 1,
+    "why": "The provincial default afternoon school-zone period is 3:00-4:30 p.m. on school days.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 30
+    }
+  },
+  {
+    "id": 554,
+    "version": 1,
+    "chapter": 2,
+    "section": "Playground Zones",
+    "cat": "Zones",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "You enter a playground zone 30 minutes after sunset with no different times posted. Is the restriction active?",
+    "a": [
+      "Only on weekdays",
+      "Only while children are present",
+      "Yes, until one hour after sunset",
+      "No, it ends at sunset"
+    ],
+    "correct": 2,
+    "why": "Default playground-zone restrictions remain active until one hour after sunset every day.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 31
+    }
+  },
+  {
+    "id": 555,
+    "version": 1,
+    "chapter": 2,
+    "section": "Zone Endings",
+    "cat": "Zones",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "How do you know a school or playground zone has ended?",
+    "a": [
+      "After one city block",
+      "After passing the school building",
+      "When no children are visible",
+      "A sign shows a higher speed or the end of the zone"
+    ],
+    "correct": 3,
+    "why": "Continue observing the zone limit until a higher maximum or end-of-zone sign appears.",
+    "source": {
+      "edition": "Spring 2026",
+      "pages": "31-32"
+    }
+  },
+  {
+    "id": 556,
+    "version": 1,
+    "chapter": 3,
+    "section": "Parallel Parking",
+    "cat": "Parking",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "After parallel parking, your wheels are 70 cm from the curb. What should you do?",
+    "a": [
+      "Reposition within 50 cm of the curb",
+      "Leave the vehicle because it is under one metre",
+      "Turn on hazard lights",
+      "Park partly on the sidewalk"
+    ],
+    "correct": 0,
+    "why": "A parallel-parked vehicle's wheels must be no more than 50 cm from the curb.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 52
+    }
+  },
+  {
+    "id": 557,
+    "version": 1,
+    "chapter": 3,
+    "section": "Leaving Parallel Parking",
+    "cat": "Parking",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "You signal left to leave a parallel space, but a cyclist is approaching in your blind spot. What should you do?",
+    "a": [
+      "Move halfway into the lane",
+      "Wait for the cyclist to pass",
+      "Pull out before the cyclist arrives",
+      "Open the door to warn the cyclist"
+    ],
+    "correct": 1,
+    "why": "A signal does not grant right-of-way; shoulder-check and wait until traffic and cyclists are clear.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 53
+    }
+  },
+  {
+    "id": 558,
+    "version": 1,
+    "chapter": 3,
+    "section": "Angle Parking",
+    "cat": "Parking",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "When entering an angle space, your vehicle is not centred by the midpoint of the stall. What is safest?",
+    "a": [
+      "Ignore the position if the front fits",
+      "Reverse immediately without checking",
+      "Correct slowly while checking both sides",
+      "Accelerate to straighten it"
+    ],
+    "correct": 2,
+    "why": "Move slowly, centre the vehicle, and monitor clearance from vehicles on both sides.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 53
+    }
+  },
+  {
+    "id": 559,
+    "version": 1,
+    "chapter": 3,
+    "section": "Leaving Angle Parking",
+    "cat": "Parking",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "While reversing from an angle stall, the rear of your vehicle becomes even with a longer vehicle beside you. What should you do?",
+    "a": [
+      "Turn sharply at once",
+      "Accelerate into the aisle",
+      "Rely only on the backup camera",
+      "Stop and check for traffic and pedestrians before continuing"
+    ],
+    "correct": 3,
+    "why": "Stop at the point where you can begin checking beyond the obstructing vehicle, then continue cautiously.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 54
+    }
+  },
+  {
+    "id": 560,
+    "version": 1,
+    "chapter": 3,
+    "section": "Reversing",
+    "cat": "Parking",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "A backup camera shows a clear path, but you have not looked behind the vehicle. May you reverse?",
+    "a": [
+      "No, look around and in the direction of travel before reversing",
+      "Yes, the camera replaces all checks",
+      "Only if reversing under 10 km/h",
+      "Only with hazard lights on"
+    ],
+    "correct": 0,
+    "why": "Cameras assist but do not replace a complete check around the vehicle and looking in the direction of travel.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 51
+    }
+  },
+  {
+    "id": 561,
+    "version": 1,
+    "chapter": 3,
+    "section": "Reversing",
+    "cat": "Parking",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "While reversing right, which way does the front of your vehicle swing?",
+    "a": [
+      "It does not move sideways",
+      "Left",
+      "Right",
+      "Straight back"
+    ],
+    "correct": 1,
+    "why": "The front swings opposite the direction the rear is moving, creating a hazard that must also be checked.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 51
+    }
+  },
+  {
+    "id": 562,
+    "version": 1,
+    "chapter": 3,
+    "section": "Parking-Lot Safety",
+    "cat": "Parking",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "You are backing from a stall while another vehicle drives along the aisle. Who should yield?",
+    "a": [
+      "The larger vehicle",
+      "Whichever driver honks first",
+      "You, because you are entering the aisle",
+      "The aisle vehicle, because you began moving"
+    ],
+    "correct": 2,
+    "why": "A vehicle backing from a parking space must yield to traffic and pedestrians already using the aisle.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 54
+    }
+  },
+  {
+    "id": 563,
+    "version": 1,
+    "chapter": 4,
+    "section": "Stop Signs",
+    "cat": "Intersections",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "A stop line is several metres before the crosswalk. Where must you make the required stop?",
+    "a": [
+      "Inside the crosswalk",
+      "At the edge of the intersecting road",
+      "Wherever you can see best",
+      "Before the stop line"
+    ],
+    "correct": 3,
+    "why": "When a stop line exists, stop before it; move forward cautiously afterward only if needed for visibility.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 58
+    }
+  },
+  {
+    "id": 564,
+    "version": 1,
+    "chapter": 4,
+    "section": "Courtesy Corners",
+    "cat": "Intersections",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "Two vehicles reach a four-way stop together. You are on the left. Who normally proceeds first?",
+    "a": [
+      "The vehicle on your right",
+      "You, because you are turning left",
+      "The faster vehicle",
+      "The vehicle with more passengers"
+    ],
+    "correct": 0,
+    "why": "At simultaneous arrivals, courtesy allows the vehicle on the right to proceed first.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 59
+    }
+  },
+  {
+    "id": 565,
+    "version": 1,
+    "chapter": 4,
+    "section": "Uncontrolled Intersections",
+    "cat": "Intersections",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "A parked van blocks your view at an uncontrolled intersection. How should you approach?",
+    "a": [
+      "Drive partly into the intersection before slowing",
+      "Slow enough to stop easily and check both directions",
+      "Maintain speed because traffic on the right must yield",
+      "Honk and enter"
+    ],
+    "correct": 1,
+    "why": "Adjust speed for limited visibility and be able to stop before a conflict develops.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 59
+    }
+  },
+  {
+    "id": 566,
+    "version": 1,
+    "chapter": 4,
+    "section": "Exiting Driveways",
+    "cat": "Intersections",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "Leaving a driveway, you cross a sidewalk before reaching the street. What is the correct sequence?",
+    "a": [
+      "Yield only to vehicles",
+      "Enter quickly before pedestrians arrive",
+      "Stop before the sidewalk, yield to pedestrians, then stop or yield before entering the street",
+      "Cross the sidewalk first, then stop"
+    ],
+    "correct": 2,
+    "why": "Stop before the sidewalk crossing and yield to pedestrians before entering the main roadway.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 60
+    }
+  },
+  {
+    "id": 567,
+    "version": 1,
+    "chapter": 4,
+    "section": "Keeping Intersections Clear",
+    "cat": "Intersections",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "Your light is green, but traffic leaves no room beyond the crosswalk. What should you do?",
+    "a": [
+      "Enter and stop in the crosswalk",
+      "Follow the vehicle ahead closely",
+      "Use the opposing lane",
+      "Wait before entering the intersection"
+    ],
+    "correct": 3,
+    "why": "Do not enter until you can completely clear the intersection and far crosswalk.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 60
+    }
+  },
+  {
+    "id": 568,
+    "version": 1,
+    "chapter": 4,
+    "section": "Roundabouts",
+    "cat": "Intersections",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "You approach a roundabout in the right lane but want an exit beyond the first. What is safest?",
+    "a": [
+      "Change to the correct approach lane before entering if safe",
+      "Enter right and change lanes inside",
+      "Stop in the circle to reposition",
+      "Exit first and reverse"
+    ],
+    "correct": 0,
+    "why": "Choose the correct lane before entry and never change lanes within the circular intersection.",
+    "source": {
+      "edition": "Spring 2026",
+      "pages": "62-63"
+    }
+  },
+  {
+    "id": 569,
+    "version": 1,
+    "chapter": 4,
+    "section": "Dual Turns",
+    "cat": "Intersections",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "The vehicle beside you swings wide during a dual turn. What should you do?",
+    "a": [
+      "Stop in the middle of the turn",
+      "Maintain your lane and be prepared to avoid a collision",
+      "Change into its original lane",
+      "Accelerate beside it"
+    ],
+    "correct": 1,
+    "why": "Stay in the corresponding lane, watch adjacent traffic, and take safe evasive action if necessary.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 66
+    }
+  },
+  {
+    "id": 570,
+    "version": 1,
+    "chapter": 4,
+    "section": "Left Turns",
+    "cat": "Intersections",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "You are waiting to turn left and an oncoming motorcycle appears farther away than it is. What should guide your decision?",
+    "a": [
+      "Turn because you entered first",
+      "Rely on the driver behind you",
+      "Wait unless there is clearly enough time and space",
+      "Assume its small size means it is slow"
+    ],
+    "correct": 2,
+    "why": "Motorcycle size makes speed and distance difficult to judge; turn only with a clearly safe gap.",
+    "source": {
+      "edition": "Spring 2026",
+      "pages": "65,101"
+    }
+  },
+  {
+    "id": 571,
+    "version": 1,
+    "chapter": 5,
+    "section": "Lane Changes",
+    "cat": "Highways",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "Your mirrors appear clear before a highway lane change. What final check is still required?",
+    "a": [
+      "A horn signal",
+      "A brake test",
+      "A glance at the fuel gauge",
+      "A shoulder check of the blind spot"
+    ],
+    "correct": 3,
+    "why": "Mirrors do not show every blind spot; shoulder-check immediately before moving laterally.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 70
+    }
+  },
+  {
+    "id": 572,
+    "version": 1,
+    "chapter": 5,
+    "section": "Merging",
+    "cat": "Highways",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "Traffic on the freeway is moving at 100 km/h while you travel at 60 km/h in the acceleration lane. What should you do?",
+    "a": [
+      "Accelerate toward traffic speed and select a safe gap",
+      "Stop at the end of the lane",
+      "Merge immediately at 60 km/h",
+      "Use the shoulder until traffic clears"
+    ],
+    "correct": 0,
+    "why": "Use the acceleration lane to approach the speed of freeway traffic before merging into a safe opening.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 73
+    }
+  },
+  {
+    "id": 573,
+    "version": 1,
+    "chapter": 5,
+    "section": "Merging",
+    "cat": "Highways",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "Another vehicle is entering the freeway beside you. Who has priority?",
+    "a": [
+      "The larger vehicle",
+      "Traffic already on the freeway, though it should cooperate when safe",
+      "The entering vehicle",
+      "Whichever vehicle is ahead by one metre"
+    ],
+    "correct": 1,
+    "why": "Entering drivers must yield to freeway traffic; drivers on the freeway should adjust safely when possible.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 73
+    }
+  },
+  {
+    "id": 574,
+    "version": 1,
+    "chapter": 5,
+    "section": "Exiting Freeways",
+    "cat": "Highways",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "You miss your freeway exit. What should you do?",
+    "a": [
+      "Stop in the travel lane",
+      "Cross the gore area",
+      "Continue to the next exit",
+      "Reverse on the shoulder"
+    ],
+    "correct": 2,
+    "why": "Never stop, reverse, or cross the gore; continue safely to the next exit.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 74
+    }
+  },
+  {
+    "id": 575,
+    "version": 1,
+    "chapter": 5,
+    "section": "Passing",
+    "cat": "Highways",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "A vehicle begins passing you on a two-lane highway. What should you do?",
+    "a": [
+      "Increase speed",
+      "Move toward the centre line",
+      "Signal left",
+      "Maintain a steady speed and allow the pass"
+    ],
+    "correct": 3,
+    "why": "Do not accelerate while being passed; maintain a predictable speed and provide room.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 76
+    }
+  },
+  {
+    "id": 576,
+    "version": 1,
+    "chapter": 5,
+    "section": "Passing",
+    "cat": "Highways",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "You are passing and realize an oncoming vehicle is closer than expected. What is the safest priority?",
+    "a": [
+      "Abandon the pass and return safely if possible",
+      "Exceed the speed limit by any amount",
+      "Force the passed vehicle onto the shoulder",
+      "Continue because you signalled"
+    ],
+    "correct": 0,
+    "why": "If the pass cannot be completed safely and legally, reduce speed and return behind the vehicle when possible.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 76
+    }
+  },
+  {
+    "id": 577,
+    "version": 1,
+    "chapter": 5,
+    "section": "Following Distance",
+    "cat": "Highways",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "Rain begins during highway driving. How should your following distance change?",
+    "a": [
+      "Match the distance used in dry weather",
+      "Increase it",
+      "Keep it unchanged",
+      "Reduce it to follow taillights"
+    ],
+    "correct": 1,
+    "why": "Wet conditions increase stopping distance and require a larger space cushion.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 75
+    }
+  },
+  {
+    "id": 578,
+    "version": 1,
+    "chapter": 5,
+    "section": "Slow Vehicles",
+    "cat": "Highways",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "A line of vehicles forms behind you on a rural highway. What should you do when possible?",
+    "a": [
+      "Drive on the shoulder continuously",
+      "Brake to make them back away",
+      "Use a safe turnout or stop off-road to let them pass",
+      "Increase speed beyond the limit"
+    ],
+    "correct": 2,
+    "why": "Allow faster traffic to pass from a safe off-road location when a queue develops behind you.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 78
+    }
+  },
+  {
+    "id": 579,
+    "version": 1,
+    "chapter": 6,
+    "section": "Emergency Braking",
+    "cat": "Hazards",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "Your ABS activates during an emergency stop and the pedal vibrates. What should you do?",
+    "a": [
+      "Release the brake completely",
+      "Pump the brake rapidly",
+      "Apply the parking brake",
+      "Keep firm continuous pressure and steer where needed"
+    ],
+    "correct": 3,
+    "why": "ABS pedal vibration is normal; maintain firm pressure and continue steering.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 83
+    }
+  },
+  {
+    "id": 580,
+    "version": 1,
+    "chapter": 6,
+    "section": "Brake Failure",
+    "cat": "Hazards",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "Your brake pedal suddenly goes to the floor. What should you try first?",
+    "a": [
+      "Pump the brake pedal to build pressure",
+      "Turn off the ignition immediately",
+      "Shift into Park at highway speed",
+      "Jump from the vehicle"
+    ],
+    "correct": 0,
+    "why": "Pumping may restore hydraulic pressure; then reduce speed and use other safe stopping methods.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 84
+    }
+  },
+  {
+    "id": 581,
+    "version": 1,
+    "chapter": 6,
+    "section": "Tire Blowout",
+    "cat": "Hazards",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "A front tire blows out at highway speed. What should you avoid?",
+    "a": [
+      "Slowing gradually",
+      "Hard braking and sudden steering",
+      "Holding the wheel firmly",
+      "Easing off the accelerator"
+    ],
+    "correct": 1,
+    "why": "Abrupt braking or steering can cause loss of control after a blowout.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 85
+    }
+  },
+  {
+    "id": 582,
+    "version": 1,
+    "chapter": 6,
+    "section": "Steering Failure",
+    "cat": "Hazards",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "Power steering fails while the vehicle is moving. What should you expect?",
+    "a": [
+      "The brakes will automatically lock",
+      "The engine must be accelerated",
+      "Steering will require much more effort",
+      "The steering wheel will turn itself"
+    ],
+    "correct": 2,
+    "why": "Manual steering remains possible but requires significantly more force; slow and stop safely.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 85
+    }
+  },
+  {
+    "id": 583,
+    "version": 1,
+    "chapter": 6,
+    "section": "Headlight Failure",
+    "cat": "Hazards",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "Both headlights fail at night. What should you do?",
+    "a": [
+      "Continue at the same speed",
+      "Use only hazard lights to keep driving",
+      "Follow another vehicle closely",
+      "Try other light settings, slow, and move safely off the road"
+    ],
+    "correct": 3,
+    "why": "Attempt to restore lighting, reduce speed, and leave the roadway safely as soon as possible.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 86
+    }
+  },
+  {
+    "id": 584,
+    "version": 1,
+    "chapter": 6,
+    "section": "Skids",
+    "cat": "Hazards",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "Your vehicle begins a braking skid without ABS. What should you do to regain steering?",
+    "a": [
+      "Ease brake pressure enough for the wheels to roll",
+      "Press harder until all wheels lock",
+      "Turn sharply away from your path",
+      "Accelerate"
+    ],
+    "correct": 0,
+    "why": "Locked wheels cannot steer; reduce pressure enough to restore rolling traction.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 88
+    }
+  },
+  {
+    "id": 585,
+    "version": 1,
+    "chapter": 6,
+    "section": "Cornering Skids",
+    "cat": "Hazards",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "You enter a slippery curve too quickly and the vehicle slides outward. Where should you look?",
+    "a": [
+      "Directly beside the vehicle",
+      "Toward the path you want to follow",
+      "At the outside ditch",
+      "At the dashboard"
+    ],
+    "correct": 1,
+    "why": "Look and steer toward the intended path while making smooth corrections.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 88
+    }
+  },
+  {
+    "id": 586,
+    "version": 1,
+    "chapter": 6,
+    "section": "Hydroplaning",
+    "cat": "Hazards",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "The steering suddenly feels light in heavy rain. What is the safest response?",
+    "a": [
+      "Turn sharply toward the shoulder",
+      "Accelerate to push through the water",
+      "Ease off the accelerator and avoid abrupt braking or steering",
+      "Brake hard"
+    ],
+    "correct": 2,
+    "why": "These are signs of hydroplaning; slow gradually and keep steering inputs smooth.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 90
+    }
+  },
+  {
+    "id": 587,
+    "version": 1,
+    "chapter": 6,
+    "section": "Wildlife",
+    "cat": "Hazards",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "A deer appears ahead and a vehicle is approaching in the opposite lane. What is your safest priority?",
+    "a": [
+      "Swerve into the opposing lane",
+      "Accelerate past the deer",
+      "Close your eyes and sound the horn",
+      "Brake firmly while maintaining control in your lane"
+    ],
+    "correct": 3,
+    "why": "A controlled stop is generally safer than swerving into oncoming traffic or another fixed hazard.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 92
+    }
+  },
+  {
+    "id": 588,
+    "version": 1,
+    "chapter": 6,
+    "section": "Collision Scene",
+    "cat": "Hazards",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "After a minor collision, vehicles can move and no one is injured. What should drivers do?",
+    "a": [
+      "Move to a safe location out of traffic and exchange information",
+      "Leave without stopping",
+      "Keep vehicles blocking the lane",
+      "Argue about fault before moving"
+    ],
+    "correct": 0,
+    "why": "When safe and lawful, clear traffic, exchange required information, and follow collision-reporting requirements.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 93
+    }
+  },
+  {
+    "id": 589,
+    "version": 1,
+    "chapter": 8,
+    "section": "Pedestrians",
+    "cat": "Sharing the Road",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "A pedestrian waits at an unmarked crosswalk at an intersection. What should you do?",
+    "a": [
+      "Pass a stopped vehicle beside the crosswalk",
+      "Yield and allow the pedestrian to cross safely",
+      "Proceed because only marked crosswalks count",
+      "Honk to signal permission"
+    ],
+    "correct": 1,
+    "why": "Intersections contain marked or unmarked crosswalks where drivers must yield to pedestrians.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 98
+    }
+  },
+  {
+    "id": 590,
+    "version": 1,
+    "chapter": 8,
+    "section": "Cyclists",
+    "cat": "Sharing the Road",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "A cyclist moves left within the lane to avoid debris. What should you do?",
+    "a": [
+      "Sound the horn continuously",
+      "Drive into the bicycle lane",
+      "Slow and give the cyclist space",
+      "Pass closely before the cyclist moves farther"
+    ],
+    "correct": 2,
+    "why": "Cyclists may need lateral room to avoid hazards; wait for a safe passing opportunity.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 99
+    }
+  },
+  {
+    "id": 591,
+    "version": 1,
+    "chapter": 8,
+    "section": "Motorcycles",
+    "cat": "Sharing the Road",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "A motorcycle's turn signal remains flashing after an intersection. What should you assume?",
+    "a": [
+      "The rider must turn at the next road",
+      "It is safe to pull out",
+      "The motorcycle is slowing",
+      "Do not assume it will turn; wait for the rider's action"
+    ],
+    "correct": 3,
+    "why": "Motorcycle signals may not cancel automatically; rely on observed movement, not the signal alone.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 101
+    }
+  },
+  {
+    "id": 592,
+    "version": 1,
+    "chapter": 8,
+    "section": "Large Vehicles",
+    "cat": "Sharing the Road",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "A large truck signals right but first moves left. What is it likely doing?",
+    "a": [
+      "Setting up for a wide right turn",
+      "Inviting you to pass on the right",
+      "Changing permanently to the left lane",
+      "Making a U-turn"
+    ],
+    "correct": 0,
+    "why": "Large vehicles may swing left to complete a right turn; never enter the space beside them.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 102
+    }
+  },
+  {
+    "id": 593,
+    "version": 1,
+    "chapter": 8,
+    "section": "Large Vehicles",
+    "cat": "Sharing the Road",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "You are beside a truck on a downhill grade. Why should you avoid lingering there?",
+    "a": [
+      "Your vehicle will use more fuel",
+      "The truck has large blind spots and may need extra room",
+      "Trucks always change lanes downhill",
+      "The truck has absolute right-of-way"
+    ],
+    "correct": 1,
+    "why": "Stay visible and avoid large-vehicle blind spots, especially where braking and lane control are demanding.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 102
+    }
+  },
+  {
+    "id": 594,
+    "version": 1,
+    "chapter": 8,
+    "section": "School Buses",
+    "cat": "Sharing the Road",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "A school bus's alternating amber lights begin flashing. What should you prepare to do?",
+    "a": [
+      "Maintain speed",
+      "Stop only if children are visible",
+      "Slow and prepare to stop because the red lights may follow",
+      "Pass before the red lights activate"
+    ],
+    "correct": 2,
+    "why": "Amber school-bus lights warn that the bus is preparing to stop and activate its red lights.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 104
+    }
+  },
+  {
+    "id": 595,
+    "version": 1,
+    "chapter": 8,
+    "section": "Emergency Vehicles",
+    "cat": "Sharing the Road",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "An emergency vehicle approaches from behind while you are in an intersection. What should you do?",
+    "a": [
+      "Stop immediately in the intersection",
+      "Reverse to the stop line",
+      "Race through and continue driving",
+      "Clear the intersection safely, then move right and stop"
+    ],
+    "correct": 3,
+    "why": "Do not block the intersection; clear it safely, then pull right and stop for the emergency vehicle.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 103
+    }
+  },
+  {
+    "id": 596,
+    "version": 1,
+    "chapter": 8,
+    "section": "Snowplows",
+    "cat": "Sharing the Road",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "A snowplow creates a cloud that blocks your view. What should you do?",
+    "a": [
+      "Stay well back and do not pass until visibility and conditions are safe",
+      "Follow closely to see its lights",
+      "Pass through the snow cloud",
+      "Drive on the shoulder"
+    ],
+    "correct": 0,
+    "why": "Snowplows can create severe whiteout conditions and may operate in formation; keep a large following distance.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 105
+    }
+  },
+  {
+    "id": 597,
+    "version": 1,
+    "chapter": 8,
+    "section": "Railway Crossings",
+    "cat": "Sharing the Road",
+    "difficulty": 4,
+    "type": "scenario",
+    "q": "A train clears one track at a multiple-track crossing, but the gate remains down. What should you do?",
+    "a": [
+      "Follow the vehicle ahead",
+      "Wait; another train may be approaching and the signals still control",
+      "Drive around the gate",
+      "Cross after looking once"
+    ],
+    "correct": 1,
+    "why": "Remain stopped until gates rise and signals stop; a second train may be approaching on another track.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 106
+    }
+  }
+]
