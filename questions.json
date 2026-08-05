@@ -8920,5 +8920,1105 @@
       "edition": "Spring 2026",
       "page": 67
     }
+  },
+  {
+    "id": 478,
+    "version": 1,
+    "chapter": 2,
+    "section": "Warning Signs",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "What does a warning sign showing a T-shaped intersection tell you?",
+    "a": [
+      "The road ends at another road ahead",
+      "Traffic must turn right only",
+      "A railway crosses ahead",
+      "A divided highway begins"
+    ],
+    "correct": 0,
+    "why": "A T-intersection warning means the road you are on ends at another roadway.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 34
+    }
+  },
+  {
+    "id": 479,
+    "version": 1,
+    "chapter": 2,
+    "section": "Warning Signs",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "scenario",
+    "q": "A yellow sign shows a side road joining from the right. What should you anticipate?",
+    "a": [
+      "A hidden road and possible entering traffic",
+      "A required right turn",
+      "A right-lane closure",
+      "A one-way road"
+    ],
+    "correct": 0,
+    "why": "The sign warns that a road joins from the right and traffic may enter.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 34
+    }
+  },
+  {
+    "id": 480,
+    "version": 1,
+    "chapter": 2,
+    "section": "Warning Signs",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "How does a free-flow added-lane sign differ from a merge sign?",
+    "a": [
+      "The entering lane continues instead of immediately joining",
+      "It requires every vehicle to stop",
+      "It marks a passing lane",
+      "It closes the right lane"
+    ],
+    "correct": 0,
+    "why": "A free-flow sign shows roadways running side-by-side without immediately merging.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 34
+    }
+  },
+  {
+    "id": 481,
+    "version": 1,
+    "chapter": 2,
+    "section": "Warning Signs",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "scenario",
+    "q": "You see a ROAD NARROWS sign. What should you do?",
+    "a": [
+      "Prepare for less roadway width ahead",
+      "Move onto the shoulder",
+      "Increase speed before the narrow section",
+      "Assume your lane ends"
+    ],
+    "correct": 0,
+    "why": "The warning indicates reduced roadway width; adjust speed and position as needed.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 35
+    }
+  },
+  {
+    "id": 482,
+    "version": 1,
+    "chapter": 2,
+    "section": "Warning Signs",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "scenario",
+    "q": "A sign warns that the right lane ends. What is the proper response?",
+    "a": [
+      "Stop in the ending lane",
+      "Plan a safe lane change before the lane ends",
+      "Drive on the shoulder",
+      "Force traffic in the through lane to stop"
+    ],
+    "correct": 1,
+    "why": "Check traffic, signal, and merge safely before the lane ends.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 35
+    }
+  },
+  {
+    "id": 483,
+    "version": 1,
+    "chapter": 2,
+    "section": "Warning Signs",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "What does a DIVIDED HIGHWAY ENDS sign warn you about?",
+    "a": [
+      "Opposing traffic will no longer be separated by a median",
+      "The highway is closed",
+      "Your lane becomes one-way",
+      "A toll road begins"
+    ],
+    "correct": 0,
+    "why": "The physical divider ends and opposing traffic will be closer.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 35
+    }
+  },
+  {
+    "id": 484,
+    "version": 1,
+    "chapter": 2,
+    "section": "Warning Signs",
+    "cat": "Signs & Speed",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "A bridge-ices warning appears on a cold day. Why should you slow before the bridge?",
+    "a": [
+      "Bridges may freeze before the roadway",
+      "Bridges always have lower speed limits",
+      "The bridge may be one-way",
+      "Tire pressure rises on bridges"
+    ],
+    "correct": 0,
+    "why": "Cold air surrounds bridge decks, so they can become icy before nearby roads.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 35
+    }
+  },
+  {
+    "id": 485,
+    "version": 1,
+    "chapter": 2,
+    "section": "Warning Signs",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "What do chevron signs along a road indicate?",
+    "a": [
+      "A sharp bend and its direction",
+      "A railway crossing",
+      "A passing zone",
+      "A school area"
+    ],
+    "correct": 0,
+    "why": "Chevrons mark a sharp change in road direction.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 35
+    }
+  },
+  {
+    "id": 486,
+    "version": 1,
+    "chapter": 2,
+    "section": "Shared-Use Signs",
+    "cat": "Signs & Speed",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "A sign says cyclists may use the full lane because it is too narrow for side-by-side travel. What should a driver do?",
+    "a": [
+      "Share the lane closely",
+      "Treat the cyclist as entitled to the lane and pass only when safe",
+      "Sound the horn until the cyclist moves",
+      "Use the bicycle lane to pass"
+    ],
+    "correct": 1,
+    "why": "The lane is too narrow for safe side-by-side travel; allow the cyclist full use of it.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 35
+    }
+  },
+  {
+    "id": 487,
+    "version": 1,
+    "chapter": 2,
+    "section": "Information Signs",
+    "cat": "Signs & Speed",
+    "difficulty": 1,
+    "type": "recall",
+    "q": "What information does a highway route marker provide?",
+    "a": [
+      "The road's route number or designation",
+      "The local speed limit",
+      "The distance to every destination",
+      "The road surface condition"
+    ],
+    "correct": 0,
+    "why": "Route markers identify roads by number, name, or designation.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 36
+    }
+  },
+  {
+    "id": 488,
+    "version": 1,
+    "chapter": 2,
+    "section": "Information Signs",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "Which background colour commonly identifies off-road services such as fuel or accommodation?",
+    "a": [
+      "Blue",
+      "Orange",
+      "Yellow",
+      "Red"
+    ],
+    "correct": 0,
+    "why": "Blue information signs identify services and facilities.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 36
+    }
+  },
+  {
+    "id": 489,
+    "version": 1,
+    "chapter": 2,
+    "section": "Other Signs",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "A slow-moving vehicle emblem is used on vehicles normally travelling below what speed?",
+    "a": [
+      "30 km/h",
+      "40 km/h",
+      "50 km/h",
+      "60 km/h"
+    ],
+    "correct": 1,
+    "why": "The emblem marks vehicles that travel at less than 40 km/h.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 37
+    }
+  },
+  {
+    "id": 490,
+    "version": 1,
+    "chapter": 2,
+    "section": "Construction Zones",
+    "cat": "Signs & Speed",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "A construction-zone speed limit is posted, but no workers are visible. Must you obey it?",
+    "a": [
+      "No",
+      "Yes, at all times",
+      "Only during daylight",
+      "Only if equipment is moving"
+    ],
+    "correct": 1,
+    "why": "Construction-zone limits apply at all times because hazards may remain when workers are absent.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 37
+    }
+  },
+  {
+    "id": 491,
+    "version": 1,
+    "chapter": 2,
+    "section": "Construction Zones",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "When are fines doubled in an Alberta construction zone?",
+    "a": [
+      "Whenever orange signs are present",
+      "When workers are present",
+      "Only at night",
+      "Only when a lane is closed"
+    ],
+    "correct": 1,
+    "why": "Fines are doubled when workers are present.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 37
+    }
+  },
+  {
+    "id": 492,
+    "version": 1,
+    "chapter": 2,
+    "section": "Construction Zones",
+    "cat": "Signs & Speed",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "A flag person gives directions that differ from the normal lane markings. What should you do?",
+    "a": [
+      "Follow the lane markings",
+      "Obey the flag person's signal",
+      "Stop and wait for police",
+      "Choose whichever route is shorter"
+    ],
+    "correct": 1,
+    "why": "Obey authorized flag-person directions in construction areas.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 37
+    }
+  },
+  {
+    "id": 493,
+    "version": 1,
+    "chapter": 2,
+    "section": "Pavement Markings",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "What do yellow pavement lines separate?",
+    "a": [
+      "Traffic moving in opposite directions",
+      "Traffic moving in the same direction",
+      "Parking from travel lanes only",
+      "Bicycle lanes from sidewalks"
+    ],
+    "correct": 0,
+    "why": "Yellow lines separate opposing traffic and should normally be on the driver's left.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 38
+    }
+  },
+  {
+    "id": 494,
+    "version": 1,
+    "chapter": 2,
+    "section": "Pavement Markings",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "What do white pavement lines separate?",
+    "a": [
+      "Traffic moving in the same direction",
+      "Opposing traffic",
+      "A road from a railway",
+      "Urban from rural roads"
+    ],
+    "correct": 0,
+    "why": "White lines separate lanes travelling in the same direction.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 39
+    }
+  },
+  {
+    "id": 495,
+    "version": 1,
+    "chapter": 2,
+    "section": "Pavement Markings",
+    "cat": "Signs & Speed",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "A broken yellow centre line is on your side. When may you pass?",
+    "a": [
+      "Whenever you are below the speed limit",
+      "Only when the lane is clear and the pass can be completed safely",
+      "Only inside a city",
+      "Without checking oncoming traffic"
+    ],
+    "correct": 1,
+    "why": "A broken yellow line permits passing only when the manoeuvre is otherwise legal and safe.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 38
+    }
+  },
+  {
+    "id": 496,
+    "version": 1,
+    "chapter": 2,
+    "section": "Pavement Markings",
+    "cat": "Signs & Speed",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "A solid yellow line is beside a broken yellow line. Which driver may pass?",
+    "a": [
+      "Both drivers",
+      "Only the driver with the broken line on their side",
+      "Only the driver with the solid line",
+      "Neither driver"
+    ],
+    "correct": 1,
+    "why": "Passing is permitted only from the side with the broken yellow line.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 38
+    }
+  },
+  {
+    "id": 497,
+    "version": 1,
+    "chapter": 2,
+    "section": "Pavement Markings",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "What does a solid white lane line indicate?",
+    "a": [
+      "Lane changing is not permitted",
+      "Passing is required",
+      "Opposing traffic is ahead",
+      "The lane is reserved for buses"
+    ],
+    "correct": 0,
+    "why": "A solid white line means drivers should not change lanes across it.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 39
+    }
+  },
+  {
+    "id": 498,
+    "version": 1,
+    "chapter": 2,
+    "section": "Pavement Markings",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "What does a broken white lane line indicate?",
+    "a": [
+      "Lane changing is permitted when safe",
+      "The road becomes two-way",
+      "Passing is prohibited",
+      "The shoulder begins"
+    ],
+    "correct": 0,
+    "why": "A broken white line permits lane changes when they can be made safely.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 39
+    }
+  },
+  {
+    "id": 499,
+    "version": 1,
+    "chapter": 2,
+    "section": "Pavement Symbols",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "What do pavement arrows tell drivers?",
+    "a": [
+      "Which movements are permitted from the lane",
+      "The minimum speed",
+      "Where pedestrians must wait",
+      "The road's route number"
+    ],
+    "correct": 0,
+    "why": "Lane arrows regulate or guide the movements allowed from that lane.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 39
+    }
+  },
+  {
+    "id": 500,
+    "version": 1,
+    "chapter": 2,
+    "section": "Pavement Symbols",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "What does a diamond painted in a traffic lane normally indicate?",
+    "a": [
+      "The lane is reserved for specified vehicles",
+      "The lane ends immediately",
+      "A school zone begins",
+      "Passing is required"
+    ],
+    "correct": 0,
+    "why": "Diamond markings identify reserved lanes, with signs explaining applicable vehicles or times.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 39
+    }
+  },
+  {
+    "id": 501,
+    "version": 1,
+    "chapter": 2,
+    "section": "Bicycle Lanes",
+    "cat": "Signs & Speed",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "When may a motor vehicle enter a marked bicycle lane?",
+    "a": [
+      "To pass slow traffic",
+      "When necessary to turn or enter or exit parking",
+      "Whenever no cyclist is visible",
+      "To stop temporarily"
+    ],
+    "correct": 1,
+    "why": "Motor vehicles may enter a bicycle lane only as needed for a turn or to enter or leave parking, while yielding appropriately.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 40
+    }
+  },
+  {
+    "id": 502,
+    "version": 1,
+    "chapter": 2,
+    "section": "Railway Markings",
+    "cat": "Signs & Speed",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "What do large X pavement markings on a rural highway warn about?",
+    "a": [
+      "A railway crossing ahead",
+      "A school crosswalk",
+      "A lane reversal",
+      "A divided highway"
+    ],
+    "correct": 0,
+    "why": "X markings on rural highways warn of an approaching railway crossing.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 40
+    }
+  },
+  {
+    "id": 503,
+    "version": 1,
+    "chapter": 3,
+    "section": "Pre-Drive Basics",
+    "cat": "Driving Basics",
+    "difficulty": 2,
+    "type": "scenario",
+    "q": "Before entering your vehicle, what should a walk-around include?",
+    "a": [
+      "Checking for people, obstacles, tire problems, and fluid leaks",
+      "Testing the horn from outside",
+      "Measuring the vehicle length",
+      "Opening every door"
+    ],
+    "correct": 0,
+    "why": "A walk-around helps find children, pedestrians, obstacles, tire issues, leaks, and other hazards.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 44
+    }
+  },
+  {
+    "id": 504,
+    "version": 1,
+    "chapter": 3,
+    "section": "Driver Position",
+    "cat": "Driving Basics",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "How should your elbows be positioned when your hands are correctly placed on the steering wheel?",
+    "a": [
+      "Locked straight",
+      "Slightly bent",
+      "Pressed against your body",
+      "Raised above your shoulders"
+    ],
+    "correct": 1,
+    "why": "A comfortable position leaves the elbows slightly bent and maintains control.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 44
+    }
+  },
+  {
+    "id": 505,
+    "version": 1,
+    "chapter": 3,
+    "section": "Mirrors",
+    "cat": "Driving Basics",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "How should the inside rear-view mirror normally be adjusted?",
+    "a": [
+      "To frame as much of the rear window as possible",
+      "To show the back seat",
+      "Toward the driver's face",
+      "Down toward the trunk"
+    ],
+    "correct": 0,
+    "why": "Frame the rear window to show as much of the area behind as possible.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 45
+    }
+  },
+  {
+    "id": 506,
+    "version": 1,
+    "chapter": 3,
+    "section": "Mirrors",
+    "cat": "Driving Basics",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "Why are outside mirrors adjusted to show only a small portion of your own vehicle?",
+    "a": [
+      "To reduce blind spots while keeping a reference point",
+      "To hide adjacent traffic",
+      "To make parking lines appear wider",
+      "To eliminate shoulder checks"
+    ],
+    "correct": 0,
+    "why": "This positioning helps reduce blind areas, but shoulder checks are still required.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 45
+    }
+  },
+  {
+    "id": 507,
+    "version": 1,
+    "chapter": 3,
+    "section": "Entering Traffic",
+    "cat": "Driving Basics",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "Before moving away from the right curb, what sequence is safest?",
+    "a": [
+      "Signal left, check mirrors and blind spot, then move when clear",
+      "Move first and signal later",
+      "Honk and accelerate",
+      "Check only the inside mirror"
+    ],
+    "correct": 0,
+    "why": "Check the path and mirrors, shoulder-check the blind spot, signal left, and enter traffic only when safe.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 45
+    }
+  },
+  {
+    "id": 508,
+    "version": 1,
+    "chapter": 3,
+    "section": "Automatic Transmission",
+    "cat": "Driving Basics",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "Which automatic-transmission position locks the transmission for parking?",
+    "a": [
+      "Neutral",
+      "Drive",
+      "Park",
+      "Reverse"
+    ],
+    "correct": 2,
+    "why": "Park locks the transmission and is used when starting the engine and leaving the vehicle parked.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 46
+    }
+  },
+  {
+    "id": 509,
+    "version": 1,
+    "chapter": 3,
+    "section": "Automatic Transmission",
+    "cat": "Driving Basics",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "In which automatic-transmission positions can the engine normally start?",
+    "a": [
+      "Park and Neutral",
+      "Drive and Reverse",
+      "First and Second",
+      "Drive only"
+    ],
+    "correct": 0,
+    "why": "The guide states the engine starts in Park or Neutral, not in driving gears.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 46
+    }
+  },
+  {
+    "id": 510,
+    "version": 1,
+    "chapter": 3,
+    "section": "Automatic Transmission",
+    "cat": "Driving Basics",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "Why might a driver select a lower automatic-transmission gear on a steep hill?",
+    "a": [
+      "For more power at lower speed and to limit upshifting",
+      "To coast with no engine control",
+      "To increase maximum speed",
+      "To unlock the wheels"
+    ],
+    "correct": 0,
+    "why": "Lower gears provide more power at lower speed and can help control the vehicle on hills or loose surfaces.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 46
+    }
+  },
+  {
+    "id": 511,
+    "version": 1,
+    "chapter": 3,
+    "section": "Manual Transmission",
+    "cat": "Driving Basics",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "What happens when the clutch pedal is pressed fully down?",
+    "a": [
+      "Engine power is disconnected from the transmission and wheels",
+      "The parking brake applies",
+      "The steering locks",
+      "The engine always stops"
+    ],
+    "correct": 0,
+    "why": "Pressing the clutch disengages the engine from the transmission so gears can be changed.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 47
+    }
+  },
+  {
+    "id": 512,
+    "version": 1,
+    "chapter": 3,
+    "section": "Manual Transmission",
+    "cat": "Driving Basics",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "What is the friction point in a manual vehicle?",
+    "a": [
+      "Where the clutch begins reconnecting the engine and transmission",
+      "Where the brakes begin to lock",
+      "Where the steering reaches full turn",
+      "Where the tires lose grip"
+    ],
+    "correct": 0,
+    "why": "The friction point is where the clutch begins transmitting engine power as the pedal is released.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 47
+    }
+  },
+  {
+    "id": 513,
+    "version": 1,
+    "chapter": 3,
+    "section": "Manual Transmission",
+    "cat": "Driving Basics",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "Why should you avoid resting your foot on the clutch pedal while driving?",
+    "a": [
+      "It causes extra clutch wear",
+      "It increases tire pressure",
+      "It disables the brake lights",
+      "It locks the transmission"
+    ],
+    "correct": 0,
+    "why": "Unnecessary contact with the clutch pedal is riding the clutch and causes extra wear.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 47
+    }
+  },
+  {
+    "id": 514,
+    "version": 1,
+    "chapter": 3,
+    "section": "Steering",
+    "cat": "Driving Basics",
+    "difficulty": 1,
+    "type": "recall",
+    "q": "What steering-wheel hand position is generally recommended?",
+    "a": [
+      "9 and 3 o'clock",
+      "12 and 6 o'clock",
+      "Both hands at 12",
+      "One hand at 6"
+    ],
+    "correct": 0,
+    "why": "The recommended position is approximately 9 and 3 o'clock for control and safety.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 48
+    }
+  },
+  {
+    "id": 515,
+    "version": 1,
+    "chapter": 3,
+    "section": "Steering",
+    "cat": "Driving Basics",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "As the steering wheel returns after a turn, may it slide through your hands?",
+    "a": [
+      "Yes, with a loosened grip while maintaining contact",
+      "No, release it completely",
+      "Only above 80 km/h",
+      "Only with one hand off the wheel"
+    ],
+    "correct": 0,
+    "why": "The wheel may slide back through a light grip, but the driver should maintain contact and control.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 48
+    }
+  },
+  {
+    "id": 516,
+    "version": 1,
+    "chapter": 3,
+    "section": "Signalling",
+    "cat": "Driving Basics",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "Which three common movements require a signal?",
+    "a": [
+      "Leaving the curb, turning, and changing lanes",
+      "Braking, reversing, and parking only",
+      "Starting the engine, stopping, and accelerating",
+      "Passing signs, bridges, and intersections"
+    ],
+    "correct": 0,
+    "why": "Signal when moving from the curb or parking lane, turning, or changing lanes.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 49
+    }
+  },
+  {
+    "id": 517,
+    "version": 1,
+    "chapter": 3,
+    "section": "Signalling",
+    "cat": "Driving Basics",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "Your turn signal does not cancel after completing a turn. What should you do?",
+    "a": [
+      "Turn it off manually",
+      "Leave it on until the next turn",
+      "Stop immediately",
+      "Activate the opposite signal"
+    ],
+    "correct": 0,
+    "why": "Cancel a signal that does not switch off automatically so other drivers are not misled.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 49
+    }
+  },
+  {
+    "id": 518,
+    "version": 1,
+    "chapter": 3,
+    "section": "Acceleration",
+    "cat": "Driving Basics",
+    "difficulty": 2,
+    "type": "scenario",
+    "q": "Why can driving much slower than traffic be hazardous?",
+    "a": [
+      "It disrupts traffic flow and can increase collision risk",
+      "It always saves fuel",
+      "It shortens stopping distance for everyone",
+      "It gives you automatic right-of-way"
+    ],
+    "correct": 0,
+    "why": "Unnecessarily slow driving disrupts traffic flow and can create conflicts.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 49
+    }
+  },
+  {
+    "id": 519,
+    "version": 1,
+    "chapter": 3,
+    "section": "Stopping Distance",
+    "cat": "Driving Basics",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "What three distances make up total stopping distance?",
+    "a": [
+      "Perception, reaction, and braking distances",
+      "Seeing, steering, and parking distances",
+      "Acceleration, coasting, and braking distances",
+      "Following, passing, and turning distances"
+    ],
+    "correct": 0,
+    "why": "Total stopping distance equals perception distance plus reaction distance plus braking distance.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 50
+    }
+  },
+  {
+    "id": 520,
+    "version": 1,
+    "chapter": 3,
+    "section": "Stopping Distance",
+    "cat": "Driving Basics",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "What is perception time?",
+    "a": [
+      "The time needed to recognize and understand a need to stop",
+      "The time needed to move a foot to the brake",
+      "The time the brakes take to stop the vehicle",
+      "The time needed to restart after stopping"
+    ],
+    "correct": 0,
+    "why": "Perception time is the interval needed to detect and understand a hazard.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 49
+    }
+  },
+  {
+    "id": 521,
+    "version": 1,
+    "chapter": 3,
+    "section": "Stopping Distance",
+    "cat": "Driving Basics",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "What is reaction time?",
+    "a": [
+      "The time needed to move from the accelerator to the brake after recognizing danger",
+      "The time brakes take to stop the wheels",
+      "The time needed to scan an intersection",
+      "The time needed to steer around a hazard"
+    ],
+    "correct": 0,
+    "why": "Reaction time begins after the hazard is understood and ends when braking action starts.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 50
+    }
+  },
+  {
+    "id": 522,
+    "version": 1,
+    "chapter": 3,
+    "section": "Stopping Distance",
+    "cat": "Driving Basics",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "Which driver-controlled factor can increase stopping distance before the brakes are even applied?",
+    "a": [
+      "Fatigue that slows perception and reaction",
+      "The colour of the vehicle",
+      "The road's route number",
+      "The radio station"
+    ],
+    "correct": 0,
+    "why": "Fatigue reduces alertness and decision speed, increasing perception and reaction distance.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 50
+    }
+  },
+  {
+    "id": 523,
+    "version": 1,
+    "chapter": 3,
+    "section": "Braking",
+    "cat": "Driving Basics",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "For a normal stop, when should you begin braking?",
+    "a": [
+      "Early enough to stop smoothly",
+      "Only at the last moment",
+      "After entering the crosswalk",
+      "When the wheels begin to skid"
+    ],
+    "correct": 0,
+    "why": "Brake early so enough distance remains and the stop can be smooth and controlled.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 50
+    }
+  },
+  {
+    "id": 524,
+    "version": 1,
+    "chapter": 3,
+    "section": "Braking",
+    "cat": "Driving Basics",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "How can you finish a normal stop smoothly?",
+    "a": [
+      "Ease brake pressure slightly, then reapply just before stopping",
+      "Pump the accelerator",
+      "Apply the parking brake",
+      "Turn the steering wheel"
+    ],
+    "correct": 0,
+    "why": "Slightly releasing and then reapplying brake pressure helps prevent a jerky final stop.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 50
+    }
+  },
+  {
+    "id": 525,
+    "version": 1,
+    "chapter": 3,
+    "section": "Threshold Braking",
+    "cat": "Driving Basics",
+    "difficulty": 3,
+    "type": "recall",
+    "q": "What is threshold braking in a vehicle without ABS?",
+    "a": [
+      "Maximum braking without locking the wheels",
+      "Repeatedly applying the parking brake",
+      "Braking only with the rear wheels",
+      "Locking all wheels immediately"
+    ],
+    "correct": 0,
+    "why": "Threshold braking applies the greatest useful pressure while retaining steering control.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 50
+    }
+  },
+  {
+    "id": 526,
+    "version": 1,
+    "chapter": 3,
+    "section": "Reversing",
+    "cat": "Driving Basics",
+    "difficulty": 2,
+    "type": "recall",
+    "q": "At what speed should ordinary reversing be done?",
+    "a": [
+      "A crawl or slow walking speed",
+      "10 km/h minimum",
+      "The posted speed limit",
+      "Fast enough to reduce exposure"
+    ],
+    "correct": 0,
+    "why": "All reversing should be done at a crawl or slow walking speed.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 51
+    }
+  },
+  {
+    "id": 527,
+    "version": 1,
+    "chapter": 3,
+    "section": "Reversing",
+    "cat": "Driving Basics",
+    "difficulty": 3,
+    "type": "scenario",
+    "q": "While reversing left, where should you mainly look?",
+    "a": [
+      "Over the left shoulder, with frequent glances forward",
+      "Only at the backup camera",
+      "Over the right shoulder only",
+      "Only in the inside mirror"
+    ],
+    "correct": 0,
+    "why": "Look in the direction the rear is travelling and continue checking the front for clearance.",
+    "source": {
+      "edition": "Spring 2026",
+      "page": 51
+    }
   }
 ]
