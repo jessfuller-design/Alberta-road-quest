@@ -28,6 +28,15 @@ Version 0.4 adds a dedicated visual module with 32 Alberta road signs:
 - unlimited sign flashcards
 - separate sign mastery tracking stored on the device
 
+## Licence Code Learning
+
+The Licence Code Decoder is limited to the 19 condition and endorsement codes listed in the Spring 2026 guide. It includes:
+
+- six-pair matching rounds with randomized columns
+- two-way recall questions
+- a short memory hook for every code
+- explicit separation between conditions and endorsements
+
 ## Query helper
 
 The browser also exposes `window.RoadQuestDB`:
